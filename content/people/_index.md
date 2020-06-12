@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: People
-view: 2
+view: 4
 ---

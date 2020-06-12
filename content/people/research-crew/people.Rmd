@@ -1,0 +1,45 @@
+---
+title: "Research Crew"
+date: 2020-06-12T12:57:28+08:00
+draft: false
+summary: Our research crew handles all our projects, assisting in data collection and analyses. 
+---
+
+
+## Lau Zen Juen, M.A. (Hons)
+<img src="" alt="Zen" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+-  CV: []()
+-  GitHub: []()
+-  Email:
+
+
+## Pham Thanh Tam, B.A. (Hons)
+<img src="" alt="Tam" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+-  CV: []()
+-  GitHub: []()
+-  Email:
+
+## Teo Jia Li, B.A. (Hons)
+<img src="" alt="Jia Li" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+-  CV: []()
+-  GitHub: []()
+-  Email:
+
+## Pham Thanh Tam, Bachelor of Psychology (Hons)
+<img src="" alt="Li Tong" width="50%" align="left" hspace=20" vspace="20">
+
+
+**More information:**
+-  CV: []()
+-  GitHub: []()
+-  Email:
+
