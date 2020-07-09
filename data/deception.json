@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "name": "The Structure of Deception: Validation of the Lying Profile Questionnaire",
+        "image": "/img/deception-scale.png",
+        "url": "/publication/deception-scale/",
+        "items": [
+            {
+                "name": "PDF",
+                "url": "https://dominiquemakowski.github.io/publication/makowski2020structure/makowski2020structure.pdf"
+            },
+            {
+                "name": "Supplementary Materials",
+                "url": "/publication/cc-pathway/"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "TBD",
+        "image": "",
+        "url": "",
+        "items": [
+            {
+                "name": "PDF",
+                "url": ""
+            },
+            {
+                "name": "Supplementary Materials",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "TBD",
+        "image": "/images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "PDF",
+                "url": ""
+            },
+            {
+                "name": "Supplementary Materials",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "TBD",
+        "image": "/images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "PDF",
+                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02767/full"
+            },
+            {
+                "name": "Supplementary Materials",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "TBD",
+        "image": "/images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "PDF",
+                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02767/full"
+            },
+            {
+                "name": "Supplementary Materials",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "TBD",
+        "image": "/images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "PDF",
+                "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02767/full"
+            },
+            {
+                "name": "Supplementary Materials",
+                "url": "#"
+            }
+        ]
+    }
+]

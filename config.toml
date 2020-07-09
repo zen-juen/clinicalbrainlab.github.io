@@ -2,18 +2,18 @@ baseURL = "https://clinicalbrainlab.github.io/"
 languageCode = "en-us"
 title = "The Clinical Brain Lab"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Clinical Brain Lab"
-    description = "A Psychology Research Lab"
+    description = "A Neuropsychology Research Lab"
     email = "clinicalbrainlab@gmail.com"
     # phone = ""
     address = "Nanyang Technological University, 48 Nanyang Avenue, Singapore 639818"
     year = 2020
     avatar = "img/logo_CBL.png"
     background = ""
-    favicon = "images/gt_favicon.png"
+    favicon = "img/favicon.png"
     DateForm = "June, 2020"
 
     showSubheader = false
@@ -35,6 +35,43 @@ publishDir = "docs"
 name = "People"
 url = "/people"
 weight = 2
+hasChildren = true
+
+  [[menu.main]]
+  parent = "People"
+  name = "Principal Investigator"
+  URL = "/people/prof-annabel"
+  weight = 1
+
+  [[menu.main]]
+  parent = "People"
+  name = "Research Scientists and Fellows"
+  URL = "/people/research-fellow"
+  weight = 2
+
+  [[menu.main]]
+  parent = "People"
+  name = "Graduate Students"
+  URL = "/people/graduate-student"
+  weight = 3
+
+  [[menu.main]]
+  parent = "People"
+  name = "Research Crew"
+  URL = "/people/research-crew"
+  weight = 4
+
+  [[menu.main]]
+  parent = "People"
+  name = "Undergraduate Students"
+  URL = "/people/undergraduate-student"
+  weight = 5
+
+  [[menu.main]]
+  parent = "People"
+  name = "System Administrators"
+  URL = "/people/system-admin"
+  weight = 6
 
 [[menu.main]]
 name = "Publication"
@@ -50,6 +87,25 @@ weight = 4
 name = "Join Us"
 URL = "/join"
 weight = 5
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Join Us"
+  name = "Doctorate Research Fellowship"
+  URL = "/join/doctoral-fellowships"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Join Us"
+  name = " Post-doctoral Research Fellowships/Research Fellow"
+  URL = "/join/post-doctoral"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Join Us"
+  name = "Part-time System Administrator"
+  URL = "/join/system-administrator"
+  weight = 3
 
 [[menu.main]]
 name = "Participate"
@@ -60,6 +116,30 @@ weight = 6
 name = "Contact Us"
 URL = "/contact"
 weight = 7
+
+[[menu.main]]
+name = "Events"
+URL = "/events"
+weight = 8
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Events"
+  name = "Conferences"
+  URL = "/events/conferences"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Events"
+  name = "Visiting Professors"
+  URL = "/events/visiting-professors"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Events"
+  name = "Research Visits"
+  URL = "/events/research-visits"
+  weight = 3
 
 # to sign up later: https://disqus.com/
 [params.disqus]
