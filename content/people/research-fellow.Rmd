@@ -5,18 +5,20 @@ draft: false
 ---
 
 ## Research Scientists and Research Fellows
-#### Chiao-Yi Wu, Ph.D.
+#### Chiao-Yi Joyce Wu, Ph.D.
 <img src="/img/CYWu.png" alt="Joyce" width="25%" align="left" hspace=20" vspace="20"><br />
 
 **Research Scientist** <br />
 Centre for Research and Development in Learning (CRADLE) <br />
-Nanyang Technological University
+Nanyang Technological University <br />
+Centre for Research in Child Development (CRCD) <br />
+National Institute of Education
 
-I am Joyce.
+Joyce is a cognitive neuroscientist. Her research interests revolve around the neurocognitive mechanisms underlying language, reading, and mathematical processing, as well as their implications for learning and education. Using multimodal approaches combining behavioural assessment and neuroimaging techniques, she investigates the impact of script types on the neural network of reading for bilinguals, and studies bilingual and biliteracy development in early childhood. 
 
 - Academic Profile: [NTU Website](https://cradle.ntu.edu.sg/aboutus/OurPeople/Pages/Chiao-Yi-WU.aspx), [ResearchGate](https://www.researchgate.net/profile/Chiao_Yi_Wu)
-- Email: cywu@ntu.edu.sg
 - ORCID: [0000-0001-8237-4038](https://orcid.org/0000-0001-8237-4038)
+- Email: cywu@ntu.edu.sg
 <br />
 
 #### Alicia Goodwill, Ph.D. <br />
